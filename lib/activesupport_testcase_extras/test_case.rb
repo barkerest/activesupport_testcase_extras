@@ -491,4 +491,4 @@ module ActivesupportTestcaseExtras
   end
 end
 
-ActiveSupport::TestCase.include Incline::Extensions::TestCase
+ActiveSupport::TestCase.include ActivesupportTestcaseExtras::TestCase
