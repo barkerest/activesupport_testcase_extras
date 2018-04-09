@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    activesupport_testcase_extras (1.0.1)
+    activesupport_testcase_extras (1.0.2)
       activesupport (>= 4.0)
 
 GEM
